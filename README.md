@@ -7,7 +7,7 @@ $ sudo access --user krazybeastx
 
 
 
-# ⚡ KRAZYBEASTX
+# ⚡ Karthikeswar J 
 
 ```txt
 Penetration Tester | SOC Analyst | CTF Player
@@ -21,14 +21,12 @@ Penetration Tester | SOC Analyst | CTF Player
 └─$ whoami
 Janyavula Karthikeswar
 
-└─$ role
+└─$ cat role
 Penetration Tester | SOC Analyst
 
-└─$ specialization
-Web Security | Active Directory | SIEM | Threat Detection
+└─$ cat specialization
+VAPT | Web Security | Active Directory | SIEM | Threat Detection
 
-└─$ status
-Injecting packets into the matrix...
 ```
 
 ---
@@ -39,8 +37,6 @@ Injecting packets into the matrix...
 
 ```yaml
 Name: Janyavula Karthikeswar
-Location: Andhra Pradesh, India
-Graduated: 2024
 
 Focus Areas:
   - Penetration Testing
@@ -82,7 +78,7 @@ VAPT • Web Security • API Security • Network Security
 
 # 🚀 Featured Projects
 
-## 💀 CTF Vulnerable Machine (Boot2Root)
+## 📟 CTF Vulnerable Machine (Boot2Root)
 
 
 
@@ -99,18 +95,19 @@ Designed realistic enterprise attack paths and guided learning scenarios for off
 
 ## ⚡ Kraken — Multi-threaded Hash Cracker
 
-```cpp
+```yaml
 Supported Hashes:
 MD5 | SHA1 | SHA256 | SHA512
-```
 
 Features:
-- Dictionary attacks
-- Brute-force attacks
-- Hybrid attacks
-- Rule-based mangling
-- Multi-threaded engine
-
+```
+```diff
++ Dictionary attacks
++ Brute-force attacks
++ Hybrid attacks
++ Rule-based mangling
++ Multi-threaded engine
+```
 ---
 
 ## 🛡️ Threat Detection SIEM
@@ -120,10 +117,12 @@ Events Processed:
 10K+ events/minute
 
 Capabilities:
-  - Brute-force detection
-  - Threat correlation
-  - Log analysis
-  - MITRE ATT&CK mapping
+```
+```diff
+  + Brute-force detection
+  + Threat correlation
+  + Log analysis
+  + MITRE ATT&CK mapping
 ```
 
 Built dashboards with alert prioritization, timelines, and real-time detection workflows.
@@ -158,7 +157,7 @@ Certified Red Team Operation Management (CRTMO)
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/nameiskarthik1">
@@ -175,6 +174,5 @@ Certified Red Team Operation Management (CRTMO)
 </p>
 
 ---
-
 
 
