@@ -1,178 +1,39 @@
-
-```bash
-$ sudo access --user krazybeastx
-[+] Access Granted
-[+] Loading Portfolio...
-```
-
-
-
-# ⚡ Karthikeswar J 
-
-```txt
-Penetration Tester | SOC Analyst | CTF Player
-```
-
-
----
-
-```bash
-┌──(root㉿krazybeastx)-[~/system]
-└─$ whoami
-Janyavula Karthikeswar
-
-└─$ cat role
-Penetration Tester | SOC Analyst
-
-└─$ cat specialization
-VAPT | Web Security | Active Directory | SIEM | Threat Detection
-
-```
-
----
-
-
-
-# 🧠 About Me
-
-```yaml
-Name: Janyavula Karthikeswar
-
-Focus Areas:
-  - Penetration Testing
-  - Threat Detection
-  - Active Directory Security
-  - API Security
-  - Detection Engineering
-
-Platforms:
-  - TryHackMe Top 1%
-  - Hack The Box
-  - CTF Competitor
-```
-
----
-
-
-
-# ⚔️ Tech Arsenal
+## Profile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,cpp,javascript,go,linux,windows" />
+  <img src="https://www.gitskins.com/api/section/hero?username=krazybeastx1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101988125%3Fu%3D3f7209b8e9a4cceb2594786af2507cdc1fe8f4e1%26v%3D4" alt="krazybeastx1 hero visual" />
 </p>
 
-```txt
-Security Tools:
-Burp Suite • Nmap • Metasploit • Wireshark • Hydra • Gobuster • FFUF
+**Krazy** · Frontend or full-stack engineer
 
-Detection Stack:
-Splunk • ELK Stack • SIEM • MITRE ATT&CK
+## About
 
-Domains:
-VAPT • Web Security • API Security • Network Security
-```
+Questo non sono io, non appartengo a lì, non appartengo a nessun posto
 
----
+- 👥 **1** followers · **0** following
 
+## Stack
 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) `Cuda`
 
-# 🚀 Featured Projects
+## Signals
 
-## 📟 CTF Vulnerable Machine (Boot2Root)
+<table>
+<tr><td align="center"><b>8</b><br/><sub>repos</sub></td><td align="center"><b>2</b><br/><sub>stars</sub></td><td align="center"><b>108</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-
-
-```diff
-+ Active Directory Based Vulnerable Lab
-+ Zerologon
-+ AS-REP Roasting
-+ Windows Privilege Escalation
-```
-
-Designed realistic enterprise attack paths and guided learning scenarios for offensive security practice.
-
----
-
-## ⚡ Kraken — Multi-threaded Hash Cracker
-
-```yaml
-Supported Hashes:
-MD5 | SHA1 | SHA256 | SHA512
-
-Features:
-```
-```diff
-+ Dictionary attacks
-+ Brute-force attacks
-+ Hybrid attacks
-+ Rule-based mangling
-+ Multi-threaded engine
-```
----
-
-## 🛡️ Threat Detection SIEM
-
-```yaml
-Events Processed:
-10K+ events/minute
-
-Capabilities:
-```
-```diff
-  + Brute-force detection
-  + Threat correlation
-  + Log analysis
-  + MITRE ATT&CK mapping
-```
-
-Built dashboards with alert prioritization, timelines, and real-time detection workflows.
-
----
-
-# 🏆 Certifications
-
-```txt
-eJPTv2
-Certified AppSec Practitioner (CAP)
-Certified Red Team Operation Management (CRTMO)
-```
-
----
-
-
-
-# 📊 GitHub Stats
+## Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krazybeastx1&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://www.gitskins.com/api/section/projects?username=krazybeastx1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101988125%3Fu%3D3f7209b8e9a4cceb2594786af2507cdc1fe8f4e1%26v%3D4" alt="krazybeastx1 projects visual" />
 </p>
+
+## Contact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krazybeastx1&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://www.gitskins.com/api/section/social?username=krazybeastx1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F101988125%3Fu%3D3f7209b8e9a4cceb2594786af2507cdc1fe8f4e1%26v%3D4" alt="krazybeastx1 social visual" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krazybeastx1&theme=react-dark&hide_border=true" />
-</p>
+<a href="https://github.com/krazybeastx1">GitHub</a>
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/nameiskarthik1">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-
-  <a href="https://github.com/krazybeastx1">
-    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-
-  <a href="https://krazybeastx.gitbook.io/home/writeups/readme-1">
-    <img src="https://img.shields.io/badge/Blog-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-</p>
-
----
-
-
+<p align="center"><sub>Krazy · <a href="https://www.gitskins.com/readme-generator?template=community-akshay-kumar-k-887g">Akshay Kumar k</a> template by <a href="https://www.gitskins.com/creators/Akshayk4284">@Akshayk4284</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
